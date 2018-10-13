@@ -90,8 +90,8 @@
         }
         google.maps.event.addListener(map, 'click', function(){
           console.log("XMin" + xMin);
-          for (var i = xMin; i < xMax; i+=((xMax-xMin)/10) ){
-            for (var j = yMax; j > yMin; j-=((yMax-yMin)/10) ){
+          for (var i = xMin; i < xMax; i+=((xMax-xMin)/4) ){
+            for (var j = yMax; j > yMin; j-=((yMax-yMin)/4) ){
               var coordinate = new google.maps.LatLng(j, i);
               if(poly.Contains(coordinate)){
                 pointsInPolygon.push(coordinate);
@@ -106,10 +106,12 @@
 
   // Perform a nearby search.
   service.nearbySearch(
-      {location: pyrmont, radius: 1000, type: ['restaurant']},
+      {location: pyrmont, radius: 500, type: ['restaurant']},
       function(results, status, pagination) {
         if (status !== 'OK') return;
-        console.log("the results" + results);
+        for(var i = 0; i < results.length; i++){
+          console.log(results[i]);
+        }
         createMarkers(results);
 
       });
