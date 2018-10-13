@@ -1,0 +1,97 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta name="viewport" content="initial-scale=1.0, user-scalable=no">
+    <meta charset="utf-8">
+    <title>Draggable Polygons</title>
+    <style>
+      /* Always set the map height explicitly to define the size of the div
+       * element that contains the map. */
+      #map {
+        height: 100%;
+      }
+      /* Optional: Makes the sample page fill the window. */
+      html, body {
+        height: 100%;
+        margin: 0;
+        padding: 0;
+      }
+    </style>
+  </head>
+  <body>
+    <div id="map"></div>
+    <script>
+      // This example creates draggable triangles on the map.
+      // Note also that the red triangle is geodesic, so its shape changes
+      // as you drag it north or south.
+
+      function initMap() {
+
+        var map = new google.maps.Map(document.getElementById('map'), {
+          zoom: 1,
+          center: {lat: 24.886, lng: -70.268},
+          mapTypeId: 'terrain'
+        });
+        var redCoords = [
+          
+        ];
+        var polyOptions = {
+          strokeOpacity: 0.5,
+          strokeWeight: 0.6,
+          fillOpacity: 0.19,
+          fillColor: "#000"
+        };
+        poly = new google.maps.Polygon( polyOptions );
+        poly.setMap( map );
+        poly.setEditable(true);
+        var dragging = false;
+        window.onmousemove = function (e) {
+          if (!e) e = window.event;
+          if (e.shiftKey) {dragging = true} else{
+            dragging = false;
+            console.log("redCoords" + redCoords);
+            // Construct a draggable red triangle with geodesic set to true.
+            var selected = new google.maps.Polygon({
+              map: map,
+              paths: redCoords,
+              fillColor: '#FF0000',
+              fillOpacity: 0.35,
+              draggable: false,
+              geodesic: true
+            });
+          }
+          if (e.altKey) {/*alt is down*/}
+          if (e.ctrlKey) {/*ctrl is down*/}
+          if (e.metaKey) {/*cmd is down*/}
+        }
+        google.maps.event.addListener(map, 'mousemove', addLatLng);
+        function addLatLng( point ){ 
+            if(dragging == true){
+              polyPoints = poly.getPath();
+              polyPoints.insertAt( polyPoints.length, point.latLng );
+
+              //when a new point was inserted
+              google.maps.event.addListener(polyPoints, 'insert_at', function(index) { 
+                      //events to test
+                      //you can use "this" to get more information 
+              });   
+
+              //when polygon was modify
+              google.maps.event.addListener(polyPoints, 'set_at', function(index) {
+                  //event to test    
+              });
+
+          //when polygon is complete
+              google.maps.event.addListener(polyPoints, 'polygoncomplete', function(polygon) {
+                  var coordinates = (polyPoints.getArray());    
+              });
+            } 
+        }
+        
+      }
+    </script>
+    <script async defer
+    src="https://maps.googleapis.com/maps/api/js?key=AIzaSyBLBj-E94SosBsOa6DO098SxjjvRUDTBTQ&callback=initMap">
+    </script>
+  </body>
+</html>
