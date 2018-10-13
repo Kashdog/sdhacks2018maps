@@ -1,0 +1,763 @@
+{
+    "html_attributions" : [],
+    "next_page_token" : "CqQCHwEAAF5jsRLSVorGJASaiqPQ21NxZQvCvZ1Ilo4gQdZpvivfkSl8ZOEG19F-x2CO_PJ-7TqrrIuWNadNl0PFgxqEuuwZFilO_OGpsN1hKtXptWA60GZwKncuCfck7BTi9I7ucgALBbtSthfFBt8CrA_uoRZZ6D7OIco0sv7pyskWIniJTbxyO5OSnzCWYUxlp-O7qYijsaByyr3URo9_KXsFBTurIZfCgvVm_bxZOTfoAmxz4LRuQbj-ChA6_kPrOxUaBCgReMWJ1GyEiXvXmCRDX43lLll6iAJt8WTR4zTGGnzIFeXllkJnii0dFvvXorH4JM63fbiYvTH7aZlsnhnSgot2GFMH-p1e2ASPSxwsgdSIQihPSYmlBvcioDh-XP0QHhIQkoxay257DDp5ohAb-pP3fhoUYImnfLnCAOsVGOGbqq1wXEfXaFk",
+    "results" : [
+       {
+          "geometry" : {
+             "location" : {
+                "lat" : 48.85960069999999,
+                "lng" : 2.3538751
+             },
+             "viewport" : {
+                "northeast" : {
+                   "lat" : 48.86091933029149,
+                   "lng" : 2.355325480291502
+                },
+                "southwest" : {
+                   "lat" : 48.8582213697085,
+                   "lng" : 2.352627519708498
+                }
+             }
+          },
+          "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png",
+          "id" : "6addd469e10d804580e7139edf3f0ce9e69ea12b",
+          "name" : "Marais Dance Centre",
+          "opening_hours" : {
+             "open_now" : false
+          },
+          "photos" : [
+             {
+                "height" : 1200,
+                "html_attributions" : [
+                   "\u003ca href=\"https://maps.google.com/maps/contrib/107176222118865311565/photos\"\u003eCentre de danse du Marais\u003c/a\u003e"
+                ],
+                "photo_reference" : "CmRaAAAAskiPpjUmd7zmMEc45Lat0mpWzmSURZdl7YdbS3b08j7aLujyOzuJe_p-cwe6ZXfwiOvVAaUGjdmsoe0RAG_9voKOtr-PJWzbpybPvtnKu-viguF_7RBDhsT9WIZKlOcyEhAfg01jnpFieDpjJb11zvdXGhSlhH5rHNY6np0SZPmkmEiYCT6Ptg",
+                "width" : 1600
+             }
+          ],
+          "place_id" : "ChIJ21XX7Rxu5kcRMJie6Eo0Zjw",
+          "plus_code" : {
+             "compound_code" : "V953+RH Paris, France",
+             "global_code" : "8FW4V953+RH"
+          },
+          "rating" : 4.5,
+          "reference" : "ChIJ21XX7Rxu5kcRMJie6Eo0Zjw",
+          "scope" : "GOOGLE",
+          "types" : [ "gym", "health", "school", "point_of_interest", "establishment" ],
+          "vicinity" : "41 Rue du Temple, Paris"
+       },
+       {
+          "geometry" : {
+             "location" : {
+                "lat" : 48.8590095,
+                "lng" : 2.3515887
+             },
+             "viewport" : {
+                "northeast" : {
+                   "lat" : 48.86035288029149,
+                   "lng" : 2.352930630291502
+                },
+                "southwest" : {
+                   "lat" : 48.85765491970849,
+                   "lng" : 2.350232669708498
+                }
+             }
+          },
+          "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png",
+          "id" : "9b5abf25472b52c9cd9fcff37a07a3cfb01fea14",
+          "name" : "Groupe Scolaire Saint Jean Gabriel",
+          "photos" : [
+             {
+                "height" : 3456,
+                "html_attributions" : [
+                   "\u003ca href=\"https://maps.google.com/maps/contrib/114564043208970406411/photos\"\u003eInverate Games\u003c/a\u003e"
+                ],
+                "photo_reference" : "CmRaAAAARxahrRw8YuAlLizOpHPsvrOk71Rd-tWU43MNm0q6MGt05PVDDQFW37_jxLc3Ug0uEP9MxSPZvVQlQQfI5Ny7wz9w_DtFq7ArtuWK_k_I3o6EAJybASUK8qoV2naP2SQXEhDD3N-dXm4T2wS9WFATIiE0GhQR-bNfzq0Qnmd_3E0MSEGRWZwaUg",
+                "width" : 4608
+             }
+          ],
+          "place_id" : "ChIJRfduNhxu5kcRQIh6imRqkho",
+          "plus_code" : {
+             "compound_code" : "V952+JJ Paris, France",
+             "global_code" : "8FW4V952+JJ"
+          },
+          "rating" : 3.1,
+          "reference" : "ChIJRfduNhxu5kcRQIh6imRqkho",
+          "scope" : "GOOGLE",
+          "types" : [ "school", "point_of_interest", "establishment" ],
+          "vicinity" : "6-8 Rue du Cloître Saint-Merri, Paris"
+       },
+       {
+          "geometry" : {
+             "location" : {
+                "lat" : 48.86178530000001,
+                "lng" : 2.3525729
+             },
+             "viewport" : {
+                "northeast" : {
+                   "lat" : 48.8631258302915,
+                   "lng" : 2.354023580291502
+                },
+                "southwest" : {
+                   "lat" : 48.8604278697085,
+                   "lng" : 2.351325619708498
+                }
+             }
+          },
+          "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png",
+          "id" : "b9f04060d46d7943819a17150fae2f8e003fddde",
+          "name" : "Public Primary School Brantôme",
+          "place_id" : "ChIJg2xDhRtu5kcRMMxF5Hr26wI",
+          "plus_code" : {
+             "compound_code" : "V963+P2 Paris, France",
+             "global_code" : "8FW4V963+P2"
+          },
+          "reference" : "ChIJg2xDhRtu5kcRMMxF5Hr26wI",
+          "scope" : "GOOGLE",
+          "types" : [ "school", "point_of_interest", "establishment" ],
+          "vicinity" : "5 Rue Brantôme, Paris"
+       },
+       {
+          "geometry" : {
+             "location" : {
+                "lat" : 48.8603925,
+                "lng" : 2.345165299999999
+             },
+             "viewport" : {
+                "northeast" : {
+                   "lat" : 48.8616983302915,
+                   "lng" : 2.346628930291502
+                },
+                "southwest" : {
+                   "lat" : 48.8590003697085,
+                   "lng" : 2.343930969708498
+                }
+             }
+          },
+          "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png",
+          "id" : "c815ac9223bd77f850802459506801a2006811af",
+          "name" : "School Pierre Lescot",
+          "photos" : [
+             {
+                "height" : 4160,
+                "html_attributions" : [
+                   "\u003ca href=\"https://maps.google.com/maps/contrib/110642959995640284935/photos\"\u003eRuben Pereira\u003c/a\u003e"
+                ],
+                "photo_reference" : "CmRaAAAA3QR81R3hrmfB2Pa1V7IDDN8_lalZ8TSVxQTNc2XCLKxnLDNXDRAElfEkVbtuVSJYtTKNH-j3blBKb6zEuFmdtF-wDw64n928SIeetfhip1TAKdR48VzYU_M_xTvJhqBhEhCykm3PsWZxMAeo-ykE2pJVGhRaFQn0JR6NEGGsO5xpzhfdQltlPw",
+                "width" : 3120
+             }
+          ],
+          "place_id" : "ChIJbZFeWR9u5kcR-k1T-_ORUa0",
+          "plus_code" : {
+             "compound_code" : "V86W+53 Paris, France",
+             "global_code" : "8FW4V86W+53"
+          },
+          "rating" : 3,
+          "reference" : "ChIJbZFeWR9u5kcR-k1T-_ORUa0",
+          "scope" : "GOOGLE",
+          "types" : [ "school", "point_of_interest", "establishment" ],
+          "vicinity" : "35 Rue des Bourdonnais, Paris"
+       },
+       {
+          "geometry" : {
+             "location" : {
+                "lat" : 48.8586451,
+                "lng" : 2.3450811
+             },
+             "viewport" : {
+                "northeast" : {
+                   "lat" : 48.8600230302915,
+                   "lng" : 2.346282330291501
+                },
+                "southwest" : {
+                   "lat" : 48.8573250697085,
+                   "lng" : 2.343584369708497
+                }
+             }
+          },
+          "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png",
+          "id" : "3b905f0dcf57e984e1678f5553e353dc9387d7d1",
+          "name" : "Vuillerminaz Quentin",
+          "opening_hours" : {
+             "open_now" : false
+          },
+          "photos" : [
+             {
+                "height" : 1456,
+                "html_attributions" : [
+                   "\u003ca href=\"https://maps.google.com/maps/contrib/100519639600858894165/photos\"\u003eVuillerminaz Quentin\u003c/a\u003e"
+                ],
+                "photo_reference" : "CmRaAAAA48AI9iLnReOb_sdKEBeyWp_Ce3bD_CMj4RTX_J9f5yQ52P-tPqYqNowQL_3WIA7anBvFsRSn4cx61ZFwjJxK4FR6X-j1D1-v2aYzT7nIYC4GqM-YkVEjJXpSVs39rQSxEhCssAFoInjnOweYQ9c_-bVSGhT_tW4flNPCdaM72ck1BVHTFvsCew",
+                "width" : 2592
+             }
+          ],
+          "place_id" : "ChIJnaaMgR9u5kcRe6v98q1OiBY",
+          "plus_code" : {
+             "compound_code" : "V85W+F2 Paris, France",
+             "global_code" : "8FW4V85W+F2"
+          },
+          "reference" : "ChIJnaaMgR9u5kcRe6v98q1OiBY",
+          "scope" : "GOOGLE",
+          "types" : [
+             "electronics_store",
+             "home_goods_store",
+             "store",
+             "school",
+             "point_of_interest",
+             "establishment"
+          ],
+          "vicinity" : "12 Rue Bertin Poirée, Paris"
+       },
+       {
+          "geometry" : {
+             "location" : {
+                "lat" : 48.8586868,
+                "lng" : 2.3449217
+             },
+             "viewport" : {
+                "northeast" : {
+                   "lat" : 48.8600357802915,
+                   "lng" : 2.346270680291502
+                },
+                "southwest" : {
+                   "lat" : 48.8573378197085,
+                   "lng" : 2.343572719708498
+                }
+             }
+          },
+          "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png",
+          "id" : "60e5f53b5348b5721be85bf821852bb2982e3961",
+          "name" : "Association Culturelle Franco-Japonaise de TENRI",
+          "opening_hours" : {
+             "open_now" : false
+          },
+          "photos" : [
+             {
+                "height" : 2976,
+                "html_attributions" : [
+                   "\u003ca href=\"https://maps.google.com/maps/contrib/102344222650400547164/photos\"\u003eKerbellec Alexandre\u003c/a\u003e"
+                ],
+                "photo_reference" : "CmRaAAAAdJ4-rBGEZgg8UcOnJSVfAL7ZjRfNWXQNJgyhr72u7dgUMt25TEwp1QONc0sO0hYmt4OWCCOcbNNy8iQ5JvR96twTBHvwm7Jzmd42wMpizhei2JnLGQCh9NjbNV0bJs4WEhBfm4gF0zeGg870_nfTBtsUGhSzv8d9mWY4OiTHYGZHqeAqlXFAJQ",
+                "width" : 3968
+             }
+          ],
+          "place_id" : "ChIJnaaMgR9u5kcRzHtixt1aPYg",
+          "plus_code" : {
+             "compound_code" : "V85V+FX Paris, France",
+             "global_code" : "8FW4V85V+FX"
+          },
+          "rating" : 4.7,
+          "reference" : "ChIJnaaMgR9u5kcRzHtixt1aPYg",
+          "scope" : "GOOGLE",
+          "types" : [ "school", "art_gallery", "point_of_interest", "establishment" ],
+          "vicinity" : "8 - 12 Rue Bertin Poirée, Paris"
+       },
+       {
+          "geometry" : {
+             "location" : {
+                "lat" : 48.85823970000001,
+                "lng" : 2.3452434
+             },
+             "viewport" : {
+                "northeast" : {
+                   "lat" : 48.8595851802915,
+                   "lng" : 2.346589980291502
+                },
+                "southwest" : {
+                   "lat" : 48.8568872197085,
+                   "lng" : 2.343892019708498
+                }
+             }
+          },
+          "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png",
+          "id" : "b49864f7c3372c303c49008afd2959128012ade9",
+          "name" : "Nursery School Saint-Germain L'auxerrois",
+          "photos" : [
+             {
+                "height" : 1066,
+                "html_attributions" : [
+                   "\u003ca href=\"https://maps.google.com/maps/contrib/110788347622222968070/photos\"\u003eWa Wa\u003c/a\u003e"
+                ],
+                "photo_reference" : "CmRaAAAAySqyFh6caiVjj0TbrMscp3SClJHtUIVhi1l_RbPEYER-DzXRyq9g3QCGfN8k_wUq4UiiUE4TKO1MFTAc290cpDFfeF2S-YCZZ_KovaL71ZzizC3qaAol7bTnucZWj_EwEhDAkBw1Dr0DsiuEBhgNIrE9GhTJH_exJBmOZMkGbYmV2PjDUQ5JpA",
+                "width" : 1600
+             }
+          ],
+          "place_id" : "ChIJH5uwhR9u5kcRbB6vpkFhPFk",
+          "plus_code" : {
+             "compound_code" : "V85W+73 Paris, France",
+             "global_code" : "8FW4V85W+73"
+          },
+          "reference" : "ChIJH5uwhR9u5kcRbB6vpkFhPFk",
+          "scope" : "GOOGLE",
+          "types" : [ "school", "point_of_interest", "establishment" ],
+          "vicinity" : "6 Rue Saint-Germain l'Auxerrois, Paris"
+       },
+       {
+          "geometry" : {
+             "location" : {
+                "lat" : 48.85935970000001,
+                "lng" : 2.3507504
+             },
+             "viewport" : {
+                "northeast" : {
+                   "lat" : 48.8606752302915,
+                   "lng" : 2.352075530291502
+                },
+                "southwest" : {
+                   "lat" : 48.8579772697085,
+                   "lng" : 2.349377569708498
+                }
+             }
+          },
+          "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png",
+          "id" : "baa1b469a97854d35722de1b79f08697af849495",
+          "name" : "Central Business And Langage Education",
+          "place_id" : "ChIJ1ZLFJRxu5kcR_StAwW16EAE",
+          "plus_code" : {
+             "compound_code" : "V952+P8 Paris, France",
+             "global_code" : "8FW4V952+P8"
+          },
+          "reference" : "ChIJ1ZLFJRxu5kcR_StAwW16EAE",
+          "scope" : "GOOGLE",
+          "types" : [ "school", "point_of_interest", "establishment" ],
+          "vicinity" : "22 Rue du Cloître Saint-Merri, Paris"
+       },
+       {
+          "geometry" : {
+             "location" : {
+                "lat" : 48.8614815,
+                "lng" : 2.3468876
+             },
+             "viewport" : {
+                "northeast" : {
+                   "lat" : 48.86283048029149,
+                   "lng" : 2.348236580291502
+                },
+                "southwest" : {
+                   "lat" : 48.86013251970849,
+                   "lng" : 2.345538619708499
+                }
+             }
+          },
+          "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png",
+          "id" : "6abbf89776be4375e5570225b62ce83bb830c66c",
+          "name" : "Municipal Conservatory",
+          "photos" : [
+             {
+                "height" : 1653,
+                "html_attributions" : [
+                   "\u003ca href=\"https://maps.google.com/maps/contrib/112983617936169928992/photos\"\u003eJose Gomez\u003c/a\u003e"
+                ],
+                "photo_reference" : "CmRaAAAAS5PucU9Q4Z-6lyozK7VOL8AwWSIMxFleh-yy7inkPX8A2xbJdgg72fUiT7hg7ulXQK6CJpkxOgaWRbMWbzI4C9E6loGB1pGP3dA4b85-iWj_vna79FT_PkvrzEPuCifnEhCEuvr5MW3ZQeddz3bZ6GGaGhRzOyUA-gp8mbKXMs4IxZgCGsliBg",
+                "width" : 2623
+             }
+          ],
+          "place_id" : "ChIJq6qqqhlu5kcRsFhDnet3xxY",
+          "plus_code" : {
+             "compound_code" : "V86W+HQ Paris, France",
+             "global_code" : "8FW4V86W+HQ"
+          },
+          "rating" : 2,
+          "reference" : "ChIJq6qqqhlu5kcRsFhDnet3xxY",
+          "scope" : "GOOGLE",
+          "types" : [ "school", "point_of_interest", "establishment" ],
+          "vicinity" : "7 Passage de la Canopée, Paris"
+       },
+       {
+          "geometry" : {
+             "location" : {
+                "lat" : 48.8610786,
+                "lng" : 2.3448675
+             },
+             "viewport" : {
+                "northeast" : {
+                   "lat" : 48.8624021802915,
+                   "lng" : 2.346200480291502
+                },
+                "southwest" : {
+                   "lat" : 48.8597042197085,
+                   "lng" : 2.343502519708498
+                }
+             }
+          },
+          "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png",
+          "id" : "407ead7520c56b44264a39b1709fabf4dcf74328",
+          "name" : "Our School",
+          "place_id" : "ChIJwcSAVR9u5kcR_M9ejM-Y2pQ",
+          "plus_code" : {
+             "compound_code" : "V86V+CW Paris, France",
+             "global_code" : "8FW4V86V+CW"
+          },
+          "reference" : "ChIJwcSAVR9u5kcR_M9ejM-Y2pQ",
+          "scope" : "GOOGLE",
+          "types" : [ "school", "point_of_interest", "establishment" ],
+          "vicinity" : "12 Rue Saint Honoré, Paris"
+       },
+       {
+          "geometry" : {
+             "location" : {
+                "lat" : 48.8593086,
+                "lng" : 2.3529265
+             },
+             "viewport" : {
+                "northeast" : {
+                   "lat" : 48.8606787302915,
+                   "lng" : 2.354296530291502
+                },
+                "southwest" : {
+                   "lat" : 48.8579807697085,
+                   "lng" : 2.351598569708498
+                }
+             }
+          },
+          "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png",
+          "id" : "074bec157f19868e50902054ae640d30fa519f0d",
+          "name" : "Town Hall",
+          "place_id" : "ChIJU_hkncZz5kcR7JzlOv5uUrA",
+          "plus_code" : {
+             "compound_code" : "V953+P5 Paris, France",
+             "global_code" : "8FW4V953+P5"
+          },
+          "rating" : 2.3,
+          "reference" : "ChIJU_hkncZz5kcR7JzlOv5uUrA",
+          "scope" : "GOOGLE",
+          "types" : [ "school", "point_of_interest", "establishment" ],
+          "vicinity" : "11 Rue Saint-Merri, Paris"
+       },
+       {
+          "geometry" : {
+             "location" : {
+                "lat" : 48.8599579,
+                "lng" : 2.3420894
+             },
+             "viewport" : {
+                "northeast" : {
+                   "lat" : 48.8613037302915,
+                   "lng" : 2.343454680291502
+                },
+                "southwest" : {
+                   "lat" : 48.8586057697085,
+                   "lng" : 2.340756719708498
+                }
+             }
+          },
+          "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png",
+          "id" : "c64b5635d778a128f47dc3768e56afa734f1d3ad",
+          "name" : "Public Elementary School Arbre Sec",
+          "opening_hours" : {
+             "open_now" : false
+          },
+          "photos" : [
+             {
+                "height" : 2928,
+                "html_attributions" : [
+                   "\u003ca href=\"https://maps.google.com/maps/contrib/102200712313769202672/photos\"\u003eOleksandr T\u003c/a\u003e"
+                ],
+                "photo_reference" : "CmRaAAAAm7CdX66B24__B4d82nm_ibcx_QGL4T_eiv9cvm3Yh3VBzvQwQWivO2FlmOPtLk62AbeQK9uEs0KEcwFiXoDmiAWC9nbTgMTb_8_GySSiTonAYPKuiwbwR2t1l3S6TsB3EhDPjiDoEW7LSlHH4556yhEMGhRjXRvkIcqy0Vsa92HbX45ijIaLxw",
+                "width" : 5280
+             }
+          ],
+          "place_id" : "ChIJEZxIoCFu5kcR1iQUi2olC4c",
+          "plus_code" : {
+             "compound_code" : "V85R+XR Paris, France",
+             "global_code" : "8FW4V85R+XR"
+          },
+          "rating" : 5,
+          "reference" : "ChIJEZxIoCFu5kcR1iQUi2olC4c",
+          "scope" : "GOOGLE",
+          "types" : [ "school", "point_of_interest", "establishment" ],
+          "vicinity" : "19 Rue de l'Arbre Sec, Paris"
+       },
+       {
+          "geometry" : {
+             "location" : {
+                "lat" : 48.85960069999999,
+                "lng" : 2.3538752
+             },
+             "viewport" : {
+                "northeast" : {
+                   "lat" : 48.86091933029149,
+                   "lng" : 2.355325530291502
+                },
+                "southwest" : {
+                   "lat" : 48.8582213697085,
+                   "lng" : 2.352627569708498
+                }
+             }
+          },
+          "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png",
+          "id" : "591ac1bfbb28ded3dc336631fb0a2c983a5e712a",
+          "name" : "Atelier Lyrique I La Voce",
+          "opening_hours" : {
+             "open_now" : false
+          },
+          "photos" : [
+             {
+                "height" : 315,
+                "html_attributions" : [
+                   "\u003ca href=\"https://maps.google.com/maps/contrib/114936396086617777461/photos\"\u003eATELIER LYRIQUE I LA VOCE\u003c/a\u003e"
+                ],
+                "photo_reference" : "CmRaAAAAk9WxSuqV_4wTXNy11tAq0vP4gsGkJ2nw5UJeryzj8V3h-zxx-C-5B0cjHlkYI07-dDPWm6DTSnlZyqzn0aMdAaAGN8XBIQXmoly9QqVHkrUa1K4qpf5vpzjnBAHdjj2-EhD8NB9NIWaqzp7JQFLNiaTdGhR_Iwz4W09V4kLECU5L5Uehe3pnVw",
+                "width" : 851
+             }
+          ],
+          "place_id" : "ChIJ55bB7Rxu5kcRt9XyfH-YrL4",
+          "plus_code" : {
+             "compound_code" : "V953+RH Paris, France",
+             "global_code" : "8FW4V953+RH"
+          },
+          "reference" : "ChIJ55bB7Rxu5kcRt9XyfH-YrL4",
+          "scope" : "GOOGLE",
+          "types" : [ "school", "point_of_interest", "establishment" ],
+          "vicinity" : "41 Rue du Temple, Paris"
+       },
+       {
+          "geometry" : {
+             "location" : {
+                "lat" : 48.85960069999999,
+                "lng" : 2.3538751
+             },
+             "viewport" : {
+                "northeast" : {
+                   "lat" : 48.86091933029149,
+                   "lng" : 2.355325480291502
+                },
+                "southwest" : {
+                   "lat" : 48.8582213697085,
+                   "lng" : 2.352627519708498
+                }
+             }
+          },
+          "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png",
+          "id" : "c712cc8c76b213d9e0641c4eb2b81df1b4b4faf6",
+          "name" : "Sivouschantiez",
+          "place_id" : "ChIJsQZGGu9x5kcRpiQISqCfk-0",
+          "plus_code" : {
+             "compound_code" : "V953+RH Paris, France",
+             "global_code" : "8FW4V953+RH"
+          },
+          "rating" : 4.8,
+          "reference" : "ChIJsQZGGu9x5kcRpiQISqCfk-0",
+          "scope" : "GOOGLE",
+          "types" : [ "school", "point_of_interest", "establishment" ],
+          "vicinity" : "41 Rue du Temple, Paris"
+       },
+       {
+          "geometry" : {
+             "location" : {
+                "lat" : 48.859549,
+                "lng" : 2.353989
+             },
+             "viewport" : {
+                "northeast" : {
+                   "lat" : 48.8608874302915,
+                   "lng" : 2.355373180291501
+                },
+                "southwest" : {
+                   "lat" : 48.8581894697085,
+                   "lng" : 2.352675219708498
+                }
+             }
+          },
+          "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png",
+          "id" : "edcaf3abd4746fde646d114ad9102548da193839",
+          "name" : "Alfonsidanse",
+          "opening_hours" : {
+             "open_now" : true
+          },
+          "photos" : [
+             {
+                "height" : 768,
+                "html_attributions" : [
+                   "\u003ca href=\"https://maps.google.com/maps/contrib/110279275311908065445/photos\"\u003eALFONSIDANSE\u003c/a\u003e"
+                ],
+                "photo_reference" : "CmRaAAAAscJdXW-ojVmSdd3OAnk2v9gtWm7sds3NqisBr4Hms7nFbuPD8xCYI1d4S89WEoIettjqC1I-s9nlsVXfULSK_1USjs4BDziJ4f3xC1qfM61mOYjRqCOEXEpKk-lVuPDXEhARsr19ygagjY1tirfhvnLfGhRftO8pLS3t0gS59MF_YEKKOTHGJQ",
+                "width" : 1366
+             }
+          ],
+          "place_id" : "ChIJpc3F7Rxu5kcRCQi9-4ZbLu0",
+          "rating" : 5,
+          "reference" : "ChIJpc3F7Rxu5kcRCQi9-4ZbLu0",
+          "scope" : "GOOGLE",
+          "types" : [ "school", "point_of_interest", "establishment" ],
+          "vicinity" : "41 Rue du Temple, Paris"
+       },
+       {
+          "geometry" : {
+             "location" : {
+                "lat" : 48.8595929,
+                "lng" : 2.3539376
+             },
+             "viewport" : {
+                "northeast" : {
+                   "lat" : 48.86091993029149,
+                   "lng" : 2.355359830291501
+                },
+                "southwest" : {
+                   "lat" : 48.8582219697085,
+                   "lng" : 2.352661869708498
+                }
+             }
+          },
+          "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png",
+          "id" : "cb303e8ff9eec0dddb2e4423865c792d4fd49559",
+          "name" : "Yoga À Paris By Christine Laurion Dance Center Du Marais",
+          "opening_hours" : {
+             "open_now" : false
+          },
+          "photos" : [
+             {
+                "height" : 1192,
+                "html_attributions" : [
+                   "\u003ca href=\"https://maps.google.com/maps/contrib/109516413574615847414/photos\"\u003eYoga à Paris par Christine Laurion - Centre de Danse du Marais\u003c/a\u003e"
+                ],
+                "photo_reference" : "CmRaAAAA8x_UvtEGT4gFesaYXCWQSMRVUKJSfxMELAWJHZFZmZIgrMRIGuxG44Yq2yyi21ugaBr7ScVC2tn2d1AnmGSWcwaL53WbqWSI1V6SRU5UYdoZpf4oJDHKsBSN5oZaFDnSEhCRdaGjP4GYfaNI2isLStgGGhQhdGAsAv0VL637TmceFpb7Ujdz4A",
+                "width" : 2120
+             }
+          ],
+          "place_id" : "ChIJdYx4x7Jx5kcR8MQlEqxwOBg",
+          "plus_code" : {
+             "compound_code" : "V953+RH Paris, France",
+             "global_code" : "8FW4V953+RH"
+          },
+          "reference" : "ChIJdYx4x7Jx5kcR8MQlEqxwOBg",
+          "scope" : "GOOGLE",
+          "types" : [ "school", "point_of_interest", "establishment" ],
+          "vicinity" : "41 Rue du Temple, Paris"
+       },
+       {
+          "geometry" : {
+             "location" : {
+                "lat" : 48.8595866,
+                "lng" : 2.353942399999999
+             },
+             "viewport" : {
+                "northeast" : {
+                   "lat" : 48.8609147802915,
+                   "lng" : 2.355360830291501
+                },
+                "southwest" : {
+                   "lat" : 48.8582168197085,
+                   "lng" : 2.352662869708498
+                }
+             }
+          },
+          "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png",
+          "id" : "f9a56fc99dbebd5e6873e5b6f10a4ca817efd11b",
+          "name" : "During Flamenco Patricio Martin",
+          "place_id" : "ChIJ-WmU7Rxu5kcR4cMJ0O6nKYM",
+          "plus_code" : {
+             "compound_code" : "V953+RH Paris, France",
+             "global_code" : "8FW4V953+RH"
+          },
+          "reference" : "ChIJ-WmU7Rxu5kcR4cMJ0O6nKYM",
+          "scope" : "GOOGLE",
+          "types" : [ "school", "point_of_interest", "establishment" ],
+          "vicinity" : "41 Rue du Temple, Paris"
+       },
+       {
+          "geometry" : {
+             "location" : {
+                "lat" : 48.85993399999999,
+                "lng" : 2.3539028
+             },
+             "viewport" : {
+                "northeast" : {
+                   "lat" : 48.86131798029149,
+                   "lng" : 2.355281830291502
+                },
+                "southwest" : {
+                   "lat" : 48.85862001970849,
+                   "lng" : 2.352583869708498
+                }
+             }
+          },
+          "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png",
+          "id" : "8ff8cd3cf9f885b2e3d99d5a1af54e347c91d8a0",
+          "name" : "Ecole des Apprentis Sages",
+          "place_id" : "ChIJVZeCkhxu5kcRhvPYxInD4d0",
+          "plus_code" : {
+             "compound_code" : "V953+XH Paris, France",
+             "global_code" : "8FW4V953+XH"
+          },
+          "reference" : "ChIJVZeCkhxu5kcRhvPYxInD4d0",
+          "scope" : "GOOGLE",
+          "types" : [ "school", "point_of_interest", "establishment" ],
+          "vicinity" : "3 Rue Simon le Franc, Paris"
+       },
+       {
+          "geometry" : {
+             "location" : {
+                "lat" : 48.85986369999999,
+                "lng" : 2.3473279
+             },
+             "viewport" : {
+                "northeast" : {
+                   "lat" : 48.86124253029151,
+                   "lng" : 2.348688880291502
+                },
+                "southwest" : {
+                   "lat" : 48.85854456970851,
+                   "lng" : 2.345990919708498
+                }
+             }
+          },
+          "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png",
+          "id" : "c2bc4415d2f69e25b0d05711975832eccb6b166d",
+          "name" : "Salle M Et D Lombard",
+          "place_id" : "ChIJ9akUHx9u5kcRFxM5jDOa_9I",
+          "plus_code" : {
+             "compound_code" : "V85W+WW Paris, France",
+             "global_code" : "8FW4V85W+WW"
+          },
+          "reference" : "ChIJ9akUHx9u5kcRFxM5jDOa_9I",
+          "scope" : "GOOGLE",
+          "types" : [ "school", "point_of_interest", "establishment" ],
+          "vicinity" : "96 Rue des Lombards, Paris"
+       },
+       {
+          "geometry" : {
+             "location" : {
+                "lat" : 48.8587347,
+                "lng" : 2.3456034
+             },
+             "viewport" : {
+                "northeast" : {
+                   "lat" : 48.8600921802915,
+                   "lng" : 2.346957530291502
+                },
+                "southwest" : {
+                   "lat" : 48.8573942197085,
+                   "lng" : 2.344259569708498
+                }
+             }
+          },
+          "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+          "id" : "719c5d0c8869c1a5ac788e754c1fc9810413f262",
+          "name" : "Ateliers ObEDia",
+          "opening_hours" : {
+             "open_now" : false
+          },
+          "photos" : [
+             {
+                "height" : 480,
+                "html_attributions" : [
+                   "\u003ca href=\"https://maps.google.com/maps/contrib/102156520088178503527/photos\"\u003eAteliers ObEDia\u003c/a\u003e"
+                ],
+                "photo_reference" : "CmRaAAAAZMuYz1-Pu3eSBlZElYbb8mRxLoDaAM1nngR44N0eX6uuHnAUkH_1w2K4raEGJnT7EYxbMdm778IqRT1GEm6Kjsz_0mWep0sD9HiZM6-cKjtC8eE7s5e-KXp0NZz7qpBnEhD4zJ82tt5mhFRUW_mpUGmjGhQFZ6-47fAPyZPIjsJ09MMLqcgxJw",
+                "width" : 640
+             }
+          ],
+          "place_id" : "ChIJS-smdh9u5kcRWiLEBtYAzrs",
+          "plus_code" : {
+             "compound_code" : "V85W+F6 Paris, France",
+             "global_code" : "8FW4V85W+F6"
+          },
+          "reference" : "ChIJS-smdh9u5kcRWiLEBtYAzrs",
+          "scope" : "GOOGLE",
+          "types" : [ "doctor", "health", "school", "point_of_interest", "establishment" ],
+          "vicinity" : "15 Rue Jean Lantier, Paris"
+       }
+    ],
+    "status" : "OK"
+ }

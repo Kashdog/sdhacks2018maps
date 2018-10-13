@@ -51,10 +51,19 @@
             dragging = false;
           }
         }
+        var xMax;
+        var xMin;
+        var yMax;
+        var yMin;
+        var xs = [];
+        var ys = [];
+        var pointsInPolygon = [];
         google.maps.event.addListener(map, 'mousemove', addLatLng);
         function addLatLng( point ){ 
             if(dragging == true){
               console.log("Latitude: " + point.latLng.lat().toFixed(3) + " Longitude: " + point.latLng.lng().toFixed(3));
+              ys.push(point.latLng.lat().toFixed(3));
+              xs.push(point.latLng.lng().toFixed(3));
               polyPoints = poly.getPath();
               polyPoints.insertAt( polyPoints.length, point.latLng );
 
@@ -62,8 +71,10 @@
               google.maps.event.addListener(polyPoints, 'insert_at', function(index) { 
                       //events to test
                       //you can use "this" to get more information 
-                  var coordinate = new google.maps.LatLng(40, -90);
-                  console.log(poly.Contains(coordinate));
+                  yMax = Math.max.apply(Math,ys); 
+                  yMin = Math.min.apply(Math,ys);
+                  xMax = Math.max.apply(Math,xs);
+                  xMin = Math.min.apply(Math,xs);
               });   
 
               //when polygon was modify
@@ -77,6 +88,18 @@
               });
             } 
         }
+        google.maps.event.addListener(map, 'click', function(){
+          console.log("XMin" + xMin);
+          for (var i = xMin; i < xMax; i+=((xMax-xMin)/10) ){
+            for (var j = yMax; j > yMin; j-=((yMax-yMin)/10) ){
+              var coordinate = new google.maps.LatLng(j, i);
+              if(poly.Contains(coordinate)){
+                pointsInPolygon.push(coordinate);
+              }
+            }
+          }
+          console.log("Points in Polygon" + pointsInPolygon);
+        });
     google.maps.Polygon.prototype.Contains = function (point) {
     var crossings = 0,
         path = this.getPath();
