@@ -99,6 +99,21 @@
             }
           }
           console.log("Points in Polygon" + pointsInPolygon);
+          for(var i = 0; i < pointsInPolygon.length; i++){
+            console.log(pointsInPolygon[i].lat() + " Y");
+            console.log(pointsInPolygon[i].lng() + " X");
+            var urlString = 'https://maps.googleapis.com/maps/api/place/nearbysearch/json?location=' + pointsInPolygon[i].lat() + ',' + pointsInPolygon[i].lng() + '&radius=' +5000 + '&types=restaurant&sensor=false&key=AIzaSyBLBj-E94SosBsOa6DO098SxjjvRUDTBTQ';
+          console.log(urlString);
+            $.ajax({
+                url: urlString, 
+                type: "GET",   
+                dataType: 'jsonp',
+                cache: false,
+                success: function(response){                          
+                    console.log(response);                   
+                }           
+            });
+          }
         });
     google.maps.Polygon.prototype.Contains = function (point) {
     var crossings = 0,
@@ -161,5 +176,9 @@
     <script async defer
     src="https://maps.googleapis.com/maps/api/js?key=AIzaSyBLBj-E94SosBsOa6DO098SxjjvRUDTBTQ&callback=initMap">
     </script>
+    <script
+    src="https://code.jquery.com/jquery-3.3.1.min.js"
+    integrity="sha256-FgpCb/KJQlLNfOu91ta32o/NMZxltwRo8QtmkMRdAu8="
+    crossorigin="anonymous"></script>
   </body>
 </html>
